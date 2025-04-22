@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "traffic_flow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SegmentID": 189271, "avg_daily_vol": 12808.777777777777, "street": "BORDEN AVENUE BRIDGE" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.942791069020998, 40.73906903306974 ], [ -73.942640053621943, 40.739037944472834 ] ] ] } },
+{ "type": "Feature", "properties": { "SegmentID": 66081, "avg_daily_vol": 6847.5714285714284, "street": "BORDEN AVENUE" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93862452891689, 40.738404780714276 ], [ -73.937727385792883, 40.738196804116143 ] ] ] } },
+{ "type": "Feature", "properties": { "SegmentID": 65967, "avg_daily_vol": 766.33333333333337, "street": "HUNTERS POINT BRIDGE" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.940615053391795, 40.740861472268726 ], [ -73.940282302832586, 40.740799282268902 ] ] ] } }
+]
+}
